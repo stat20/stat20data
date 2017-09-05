@@ -12,18 +12,17 @@
   Negative times represent early departures/arrivals.}
 \item{hour,minute}{Time of departure broken in to hour and minutes.}
 \item{carrier}{Two letter carrier abbreviation. See \code{airlines} in the
-  \code{nycflights13} package for more information or google the airline code.} (Update later)
+  \code{nycflights13} package for more information or google the airline code.}
 \item{tailnum}{Plane tail number.}
 \item{flight}{Flight number.}
 \item{origin,dest}{Origin and destination. See \code{airports} in the
-  \code{nycflights13} package for more information or google airport the code.} (Update later)
+  \code{nycflights13} package for more information or google airport the code.}
 \item{air_time}{Amount of time spent in the air.}
 \item{distance}{Distance flown.}
 }}
 \source{
-Hadley Wickham (2014) (Update later). \code{nycflights13}: Data about flights departing
-NYC in 2013. R package version 0.1. (Update Later)
- \url{https://CRAN.R-project.org/package=nycflights13} (Update Later)
+RITA, Bureau of transportation statistics,
+ \url{http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236}
 }
 \usage{
 pnwflights
