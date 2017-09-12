@@ -5,7 +5,6 @@
 #'
 #' @format A tbl_df with 45 rows and 34 variables:
 #' \describe{
-#'   \item{gender}{Gender identity of respondent}
 #'   \item{social}{Personal political views on social issues, 
 #'   with 1 being extremely liberal and 10 being extremely conservative}
 #'   \item{economic}{Personal Political views on economic issues}
