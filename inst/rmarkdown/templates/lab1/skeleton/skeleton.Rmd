@@ -22,7 +22,7 @@ data(arbuthnot)
 ### Exercise 1: 
 
 ```{r eval = FALSE}
-arbuthnot$girls
+select(arbuthnot, girls)
 ```
 
 
