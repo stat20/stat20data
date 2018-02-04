@@ -4,7 +4,7 @@
 \name{survey141}
 \alias{survey141}
 \title{Cleaned Student Survey Data}
-\format{A tbl_df with 45 rows and 34 variables:
+\format{A tbl_df with 53 rows and 33 variables:
 \describe{
   \item{social}{Personal political views on social issues, 
   with 1 being extremely liberal and 10 being extremely conservative}
@@ -45,7 +45,7 @@
 survey141
 }
 \description{
-Survey results from Reed Math 141 students, Fall 2017. Each row
+Survey results from Reed Math 141 students, Spring 2018. Each row
 represents a single respondent. The data set has been wrangled to make
 generating plots easier.
 }
