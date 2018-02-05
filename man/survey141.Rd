@@ -45,7 +45,7 @@
 survey141
 }
 \description{
-Survey results from Reed Math 141 students, Spring 2018. Each row
+Survey results from Reed Math 141 students, 2017-2018. Each row
 represents a single respondent. The data set has been wrangled to make
 generating plots easier.
 }
