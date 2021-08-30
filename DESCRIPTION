@@ -1,18 +1,14 @@
-Package: oilabs
+Package: stat20data
 Type: Package
 Title: R Package Companion to OpenIntro Labs
-Version: 0.1.1.9004
-Date: 2016-08-01
+Version: 0.1.0
+Date: 2021
 Authors@R: as.person(c(
-    "Andrew Bray <andrew@openintro.org> [aut, cre]",
-    "Mine Cetinkaya-Rundel <mine@stat.duke.edu> [aut]",
-    "Albert Y. Kim <albert.ys.kim@gmail.com> [aut]",
-    "Ben Baumer <ben.baumer@gmail.com> [aut]",
-    "Chester Ismay <chester.ismay@gmail.com> [aut]"
+    "Andrew Bray <andrew@openintro.org> [aut, cre]"
   ))
-Description: This R package provides a companion to the OpenIntro labs (https://
-    www.openintro.org/stat/labs.php). It contains data sets and functions used in
-    these labs and is necessary for successful completion of them.
+Description: An R package companion to Stat 20 at UC Berkeley. Contains some data 
+    sets found in OpenIntro labs (https://
+    www.openintro.org/stat/labs.php).
 License: CC0
 LazyData: FALSE
 Imports:
