@@ -3,17 +3,19 @@
 \docType{data}
 \name{promote}
 \alias{promote}
-\title{Results from study on sex and promotion decisions}
-\format{A tbl_df with with 48 obs on 3 variables
+\title{Results from study on gender and promotion decisions}
+\format{
+A tbl_df with with 48 obs on 3 variables
 \describe{
   \item{id}{a subject identifier}
-  \item{sex}{The sex commonly associated with the name on the application}
+  \item{gender}{The gender most commonly associated with the name on the application}
   \item{decision}{the decision of the bank manager to promote or not promote}
- }}
+ }
+}
 \usage{
 promote
 }
 \description{
-Results from study on sex and promotion decisions
+Results from study on gender and promotion decisions
 }
 \keyword{datasets}
