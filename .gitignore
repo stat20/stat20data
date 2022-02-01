@@ -2,4 +2,4 @@
 .Rbuildignore
 .Rhistory
 .Rproj.user
-oilabs.Rproj
+.DS_Store
