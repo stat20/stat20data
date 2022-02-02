@@ -1,8 +1,8 @@
 ---
 title: "Generic Lab Name"
-author: "Name"
-date: "Date of lab session"
-output: oilabs::lab_report
+author: "First and Last Name"
+date: "Date"
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
