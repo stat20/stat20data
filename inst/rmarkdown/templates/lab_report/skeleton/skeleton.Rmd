@@ -2,23 +2,47 @@
 title: "Lab X: Title"
 author: "First and Last Name"
 date: "Date"
+collaborators: " "
 output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(dplyr)
-library(ggplot2)
-library(oilabs)
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE,
+                      fig.height = 2.5, fig.width = 4, fig.align = "center")
 ```
 
-* * *
 
-### Exercise 1: 
+## Part I
+
+### 1.
+
+There is my answer to the first question.
+
+### 2.
+
+Here is my answer to the second question, which will include an image if you upload one, be sure its in the file directory next this file, change `file-name.png` to the name of your file, and remove the `#` that leads that line of R code.
+
+```{r echo = FALSE}
+# knitr::include_graphics("file-name.png")
+```
+
+## Part II
+
+### 3.
+
+Here is an example of an R chunk.
 
 ```{r}
+library(tidyverse)
+library(palmerpenguins)
+data(penguins)
 
+ggplot(penguins, aes(x = bill_length_mm)) +
+  geom_histogram()
 ```
+
+
+## Part III
 
 
 
