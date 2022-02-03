@@ -1,5 +1,5 @@
 name: Lab Report
 description: >
  Template for creating labs for Stat 20 at UC Berkeley
-create_dir: true
+create_dir: false
 
