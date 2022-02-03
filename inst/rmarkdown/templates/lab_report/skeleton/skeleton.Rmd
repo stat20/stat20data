@@ -1,5 +1,5 @@
 ---
-title: "Generic Lab Name"
+title: "Lab X: Title"
 author: "First and Last Name"
 date: "Date"
 output: pdf_document
