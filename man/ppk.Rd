@@ -32,7 +32,7 @@ A tbl_df with with 1658 rows and 43 variables:
   \item{Q11_7}{Resource for UCB updates/news: Other}
   \item{Q15_1}{On a scale of 1-10, how would you rate the overall condition of People’s Park? (1 being in terrible condition and 10 being in excellent condition)}
   \item{Q17}{Which of the following best describes your level of familiarity with the People’s Park Project?}
-  \item{Q18}{Based on what you know about the project, what best describes your level of support/opposition for the People’s Park Project?}
+  \item{Q18}{Based on what you know about the project, what best describes your level of support/opposition for the People’s Park Project? (1 being "Very Strongly Support" and 7 being "Very Strongly Oppose")}
   \item{Q18_words}{Q18 in words}
   \item{Q20_1}{The student's concern is that the People's Park Project would ruin a historical landmark.}
   \item{Q20_2}{Concerns about people's park project: Taking away important space for unhoused people}
@@ -41,7 +41,7 @@ A tbl_df with with 1658 rows and 43 variables:
   \item{Q20_5}{Concerns about people's park project: Removing a space to express activism and protest}
   \item{Q20_6}{Concerns about people's park project: Other}
   \item{Q20_7}{Concerns about people's park project: None of the above}
-  \item{Q21}{Based on the project information given in the survey, what best describes your level of support/opposition for the People’s Park Project?}
+  \item{Q21}{Based on the project information given in the survey, what best describes your level of support/opposition for the People’s Park Project?  (1 being "Very Strongly Support" and 7 being "Very Strongly Oppose")}
   \item{Q21_words}{Q21 in words}
   \item{Q22_1}{After reading the project information given in the survey, the student's concern is that the People's Park Project would ruin a historical landmark.}
   \item{Q22_2}{Concerns about people's park project (post): Taking away important space for unhoused people}
