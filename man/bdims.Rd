@@ -4,7 +4,8 @@
 \name{bdims}
 \alias{bdims}
 \title{Body Dimensions}
-\format{A tbl_df with 507 rows and 25 variables.
+\format{
+A tbl_df with 507 rows and 25 variables.
 \describe{
   \item{bia.di}{A numerical vector, respondent's biacromial diameter in centimeters.}
   \item{bii.di}{A numerical vector, respondent's biiliac diameter (pelvic breadth) in centimeters.}
@@ -31,7 +32,8 @@
   \item{wgt}{A numerical vector, respondent's weight in kilograms.}
   \item{hgt}{A numerical vector, respondent's height in centimeters.}
   \item{sex}{A categorical vector, "m" if the respondent is male, "f" if female.}
-}}
+}
+}
 \source{
 \href{http://www.amstat.org/publications/jse/v11n2/datasets.heinz.html}{Heinz G, Peterson LJ, Johnson RW, Kerk CJ. 2003. Exploring Relationships in Body Dimensions. Journal of Statistics Education 11(2).}
 }

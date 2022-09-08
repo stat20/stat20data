@@ -4,10 +4,12 @@
 \name{curry}
 \alias{curry}
 \title{Curry long shots}
-\format{A tbl_df with with 27 obs on 1 variables
+\format{
+A tbl_df with with 27 obs on 1 variables
 \describe{
   \item{shot}{the result of a basket attempt, either "hit" or "miss"}
- }}
+ }
+}
 \usage{
 curry
 }

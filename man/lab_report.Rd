@@ -4,8 +4,14 @@
 \alias{lab_report}
 \title{lab_report}
 \usage{
-lab_report(highlight = "pygments", theme = "spacelab", toc = TRUE,
-  toc_float = TRUE, code_download = TRUE, code_folding = "show")
+lab_report(
+  highlight = "pygments",
+  theme = "spacelab",
+  toc = TRUE,
+  toc_float = TRUE,
+  code_download = TRUE,
+  code_folding = "show"
+)
 }
 \arguments{
 \item{highlight}{Syntax highlighting style. Supported styles include

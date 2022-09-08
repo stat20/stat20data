@@ -4,7 +4,8 @@
 \name{theses}
 \alias{theses}
 \title{Senior Thesis Checkouts}
-\format{A tbl_df with 245 rows and 6 variables:
+\format{
+A tbl_df with 245 rows and 6 variables:
 \describe{
   \item{barcode}{8 digit code on the book.}
   \item{author_last_name}{Last name of the thesis author.}
@@ -13,7 +14,8 @@
   \item{division}{Division to which the thesis student belonged. One of \code{HSS},
   \code{MNS}, \code{ARTS}, \code{PRPL}, or \code{LL}. Interdisciplinary theses were categorized to the best of ability and MALS theses were not considered.}
   \item{n_pages}{Number of pages (including references).}
-  }}
+  }
+}
 \usage{
 theses
 }
