@@ -5,32 +5,39 @@
 \alias{class_survey}
 \title{Class Survey Data}
 \format{
-A tbl_df with with 552 rows and 23 variables:
+A tbl_df with with 707 rows and 31 variables:
 \describe{
 
-  \item{time_at_cal}{number of years/semesters spent at UC Berkeley}
-  \item{major}{declared or intended major}
-  \item{coding_exp_words}{degree of coding experience on a phrased scale}
-  \item{coding_exp_scale}{degree of coding experience on a scale of 1 to 10}
-  \item{languages}{programming languages used among those who have coding experience}
-  \item{favorite_cal}{favorite thing about attending UC Berkeley}
-  \item{piercings}{number of body piercings}
-  \item{pets_and_siblings}{number of (combined) pets and siblings}
-  \item{diet}{dietary practice in terms of eating plants/animals}
-  \item{study_place}{favorite place to study on the UC Berkeley campus}
-  \item{olympics}{favorite Winter Olympic sport}
-  \item{season}{favorite season in the year}
-  \item{mts_beach}{preference for being at mountains or the beach}
-  \item{coffee_tea}{preference for coffee or tea}
-  \item{boba}{favorite boba tea shop in Berkeley}
-  \item{tech_relationships}{degree of agreement with the statement: "Technology is destructive to interpersonal relationships" on a scale of 1 to 10}
-  \item{climate}{degree of agreement with the statement: "Humanity will be able to use its engineering prowess to counteract the effects of climate change" on a scale of 1 to 10}
-  \item{crypto}{degree of agreement with the statement: "Cryptocurrency will play a dominant role in the global financial system" on a scale of 1 to 10}
-  \item{more_remote}{stated probability that the Spring 2022 semester at UC Berkeley will remain remote for more than two weeks}
-  \item{remote_sem}{stated probability that the Spring 2022 semester at UC Berkeley will be conducted entirely remotely}
-  \item{covid_fall}{stated probability that another COVID variant (other than Delta, Omicron) will disrupt class instruction in Fall 2022}
-  \item{hotdogs}{answer to the question: "Are hotdogs sandwiches?"}
-  \item{horse_duck}{answer to the question: "Who would you rather fight: a horse-sized duck or a duck-sized horse?"}
+  \item{Time_at_Cal}{number of years/semesters spent at UC Berkeley}
+  \item{Major}{declared or intended major}
+  \item{Coding_Exp_Words}{degree of coding experience on a phrased scale}
+  \item{Coding_Exp_Scale}{degree of coding experience on a scale of 1 to 10}
+  \item{Languages}{programming languages used among those who have coding experience}
+  \item{Favorite_Cal}{favorite thing about attending UC Berkeley}
+  \item{Piercings}{number of body piercings}
+  \item{Pets_and_Siblings}{number of (combined) pets and siblings}
+  \item{Diet}{dietary practice in terms of eating plants/animals}
+  \item{Title}{most closely held academic/professional label}
+  \item{Study_Place}{favorite place to study on the UC Berkeley campus}
+  \item{Olympics}{favorite Winter Olympic sport}
+  \item{Season}{favorite season in the year}
+  \item{Mts_or_Beach}{preference for being at mountains or the beach}
+  \item{Coffee_or_Tea}{preference for coffee or tea}
+  \item{Boba}{favorite boba tea shop in Berkeley}
+  \item{Tech_Relationships}{degree of agreement with the statement: "Technology is destructive to interpersonal relationships" on a scale of 1 to 10}
+  \item{Climate}{degree of agreement with the statement: "Humanity will be able to use its engineering prowess to counteract the effects of climate change" on a scale of 1 to 10}
+  \item{Crypto}{degree of agreement with the statement: "Cryptocurrency will play a dominant role in the global financial system" on a scale of 1 to 10}
+  \item{Covid_Fall}{stated probability that another COVID variant (other than Delta, Omicron) will disrupt class instruction in Fall 2022}
+  \item{Fire_Alarm}{stated probability that a fire alarm will go off in one of the UC Berkeley dorms this week}
+  \item{Hotdogs}{answer to the question: "Are hotdogs sandwiches?"}
+  \item{Horse_Duck}{answer to the question: "Who would you rather fight: a horse-sized duck or a duck-sized horse?"}
+  \item{Dogs_Pants}{answer to the question: "If a dog wore pants would he wear them on both pairs of legs or just his hind legs?" These choices corresponded to a left image and right image, respectively. }
+  \item{Artist}{\code{TRUE} if student identifies most accurately as an Artist, \code{FALSE} otherwise}
+  \item{Humanist}{\code{TRUE} if student identifies most accurately as an Humanist, \code{FALSE} otherwise}
+  \item{Natural_Scientist}{\code{TRUE} if student identifies most accurately as a Natural Scientist, \code{FALSE} otherwise}
+  \item{Social_Scientist}{\code{TRUE} if student identifies most accurately as a Social Scientist, \code{FALSE} otherwise}
+  \item{Comp_Scientist}{\code{TRUE} if student identifies most accurately as a Computational Scientist, \code{FALSE} otherwise}
+  \item{Entrepreneur}{\code{TRUE} if student identifies most accurately as an Entrepreneur, \code{FALSE} otherwise}
 }
 }
 \source{
