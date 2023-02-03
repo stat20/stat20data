@@ -6,7 +6,7 @@
 #' academic status, current world events, COVID-19 variants, their personal lives
 #' and whether one would fight a duck-sized horse or a horse-sized duck.
 #'
-#' @format A tbl_df with with 621 rows and 31 variables:
+#' @format A tbl_df with with 619 rows and 31 variables:
 #' \describe{
 #'
 #'   \item{year}{number of years/semesters spent at UC Berkeley}
