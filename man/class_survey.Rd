@@ -5,7 +5,7 @@
 \alias{class_survey}
 \title{Class Survey Data}
 \format{
-A tbl_df with with 621 rows and 31 variables:
+A tbl_df with with 619 rows and 31 variables:
 \describe{
 
   \item{year}{number of years/semesters spent at UC Berkeley}
