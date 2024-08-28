@@ -2,6 +2,8 @@
 % Please edit documentation in R/oilabs.R
 \docType{package}
 \name{oilabs}
+\alias{stat20data}
+\alias{stat20data-package}
 \alias{oilabs}
 \title{oilabs: An R package accompanying the OpenIntro labs.}
 \description{
@@ -11,4 +13,8 @@ The oilabs package contains the data sets, custom functions, documentation, and 
 In particular, it contains the datasets arbuthnot, atheism, bdims, cdc, evals, kobe, mlb11 and present. 
 
 It also contains the functions inference, multiLines, plot_ss and qqnormsim.
+}
+\author{
+\strong{Maintainer}: Andrew Bray \email{andrew@openintro.org}
+
 }
