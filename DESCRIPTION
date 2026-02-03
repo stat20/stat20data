@@ -1,8 +1,8 @@
 Package: stat20data
 Type: Package
 Title: R Package Companion to Stat 20 at UC Berkeley
-Version: 0.1.7
-Date: 2022
+Version: 0.1.8
+Date: 2026
 Authors@R: as.person(c(
     "Andrew Bray <andrew@openintro.org> [aut, cre]"
   ))
